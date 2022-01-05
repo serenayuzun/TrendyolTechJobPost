@@ -13,4 +13,4 @@ Trendyol Tech Job Post
 </p>
 
 <h3 align="left">Tech Stack - Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.selenium.dev/" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:Selenium_logo.svg#/media/File:Selenium_logo.svg" alt="selenium" width="60" height="60"/> </a> </p
+<p align="left"> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.selenium.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="selenium" width="60" height="60"/> </a> </p
