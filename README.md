@@ -3,7 +3,7 @@ Trendyol Tech Job Post
 <h2 align="left">Hi 👋</h2>
 <h2 align="center">🚀 We're looking for talented tech people for our Tech Team 🚀</h2>
 
-👉 Developer in Test [Trendyol Tech](https://jobs.lever.co/trendyol/ec9b6f54-5a18-4f85-bf2c-3b25e55e79ef) 👈
+👉 [Developer in Test Trendyol Tech](https://jobs.lever.co/trendyol/ec9b6f54-5a18-4f85-bf2c-3b25e55e79ef) 👈
 
 
 <h4 align="left">Let's connect 👇</h4>
