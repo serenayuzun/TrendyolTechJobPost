@@ -1,2 +1,16 @@
 # TrendyolTechJobPost
 Trendyol Tech Job Post
+<h1 align="left">Hi 👋</h1>
+<h1 align="center">🚀 We're looking for talented tech people for our Tech Team 🚀</h1>
+
+👉 Developer in Test [Trendyol Tech](https://jobs.lever.co/trendyol/ec9b6f54-5a18-4f85-bf2c-3b25e55e79ef) 👈
+
+
+<h4 align="left">Let's connect 👇</h4>
+<p align="left">
+<a href="https://www.linkedin.com/in/serenayuzun/" target="blank"><img align="center" src="http://pngimg.com/uploads/linkedIn/small/linkedIn_PNG13.png" alt="serenayuzun" height="30" width="30" /></a>
+
+</p>
+
+<h3 align="left">Tech Stack - Languages and Tools:</h3>
+<p align="left"> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.selenium.dev/" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:Selenium_logo.svg#/media/File:Selenium_logo.svg" alt="selenium" width="60" height="60"/> </a> </p
